@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![](image.png)
+![image](https://github.com/user-attachments/assets/317b136a-07a3-4a30-a30e-639062234c37)
 
 ### Links
 
