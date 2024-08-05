@@ -39,6 +39,6 @@
 ## Author
 
 - Website - [Spencer McGoey](https://github.com/Divinitry)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Divinitry)
+- Frontend Mentor - [@Divinitry](https://www.frontendmentor.io/profile/Divinitry)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
