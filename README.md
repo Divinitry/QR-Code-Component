@@ -17,7 +17,7 @@
 
 ### Links
 
-- Deployed Site:: []([https://your-solution-url.com](https://divinitry.github.io/QR-Code-Component/))
+- Deployed Site: https://your-solution-url.com](https://divinitry.github.io/QR-Code-Component/
 
 ## My process
 
