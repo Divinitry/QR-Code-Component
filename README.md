@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Deployed Site: https://your-solution-url.com](https://divinitry.github.io/QR-Code-Component/
 
 ## My process
 
