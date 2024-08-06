@@ -10,7 +10,7 @@ html{
 }
 
 body{
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,6 @@ img{
     border-radius: 7px;
     width: 100%;
     height: auto;
-    margin-bottom: 10px;
 }
 
 .text-container{
